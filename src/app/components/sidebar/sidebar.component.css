@@ -1,0 +1,24 @@
+.page-container {
+    height: 100%;
+    display: inline-flex;
+    text-align: center;
+}
+
+.sidebar {
+    height: 100%;
+    width: 100px;
+    background: orange;
+}
+
+.img-sidebar {
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.content {
+    height: 100%;
+
+}
